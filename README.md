@@ -1,7 +1,7 @@
 Categorical Sampler
 -----
 
-Install from pip: `pip install categorical-sampler`
+Install from pip: `pip install categorical`
 
 Let&rsquo;s generate a probability distribution to get us started.  First, sample a bunch of random numbers to determine probability &ldquo;scores&rdquo;.
 
